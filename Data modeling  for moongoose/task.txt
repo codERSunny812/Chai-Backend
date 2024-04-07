@@ -1,6 +1,0 @@
-Let's create the data model for the backend of a ecommerce website :
-it basically have follwoing modal
-1. userDetail
-2. orderDetail
-3. productDetail
-4. categoryDetail
