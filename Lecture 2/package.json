@@ -1,0 +1,27 @@
+{
+  "name": "lecture-2",
+  "version": "1.0.0",
+  "description": "a basic node app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codERSunny812/Chai-Backend.git"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "codersunny812",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codERSunny812/Chai-Backend/issues"
+  },
+  "homepage": "https://github.com/codERSunny812/Chai-Backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
