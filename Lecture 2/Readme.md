@@ -14,9 +14,8 @@ Lets start the code part at VS Code
 2. run command
 
 ```
-`npm init -y
+npm init -y
 ```
-
 
 3. create index.js file at root directory.
 4. give the sample message.
@@ -24,7 +23,6 @@ Lets start the code part at VS Code
 
 ```
 console.log(‘Namaste! Code, at RestAPI Backend.’);
-
 ```
 
 

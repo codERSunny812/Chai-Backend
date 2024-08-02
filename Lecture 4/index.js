@@ -1,0 +1,1 @@
+console.log("lecture to create data model of product and user")
